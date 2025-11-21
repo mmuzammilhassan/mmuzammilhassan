@@ -43,7 +43,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 ## 🧠 About Me
 
 - 🔭 I’m currently open for **remote Laravel contracts or freelance projects**
-- 📫 Email me: **m.muzammil.hassan.dev@gmail.com**
+- 📫 Email me: **mmuzammilhassan24@gmail.com**
 - 🌍 Location: Pakistan (working with US/EU clients timezone-flexible)
 - 🧠 Learning more about: advanced queue systems, Laravel Octane, multi-tenancy SaaS
 - 🛠️ Building tools that are fast, clean, and actually useful
@@ -64,7 +64,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 
 If you’re building a **Laravel app**, want to modernize your **WordPress/PHP codebase**, or need a dev who understands **Livewire, Tailwind, and Alpine** deeply — I'm ready.
 
-📨 DM me on [LinkedIn](https://www.linkedin.com/in/mmuzammilhassan/) or [Email](mailto:mmuzammilhassan24@example.com)
+📨 DM me on [LinkedIn](https://www.linkedin.com/in/mmuzammilhassan/) or [Email](mailto:mmuzammilhassan24@gmail.com)
 <!--
 [Twitter](https://twitter.com/yourhandle)
 -->
