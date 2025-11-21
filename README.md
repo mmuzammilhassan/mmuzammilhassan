@@ -64,7 +64,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 
 If you’re building a **Laravel app**, want to modernize your **WordPress/PHP codebase**, or need a dev who understands **Livewire, Tailwind, and Alpine** deeply — I'm ready.
 
-📨 DM me on [Twitter](https://twitter.com/yourhandle) or [Email](mailto:m.muzammil.hassan.dev@example.com)
+📨 DM me on [Twitter](https://twitter.com/yourhandle) or [Email](mailto:mmuzammilhassan24@example.com)
 
 ---
 
