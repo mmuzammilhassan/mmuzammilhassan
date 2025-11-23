@@ -1,14 +1,14 @@
-# 👋 Hey there, I'm Muzamml Hassan — Laravel + TALL Stack Developer
+# Hey there, I'm Muzamml Hassan — Laravel + TALL Stack Developer
 
 I'm a backend-focused web developer who specializes in building **modern, fast, and scalable apps** using the **Laravel TALL stack** — Tailwind CSS, Alpine.js, Laravel, and Livewire.
 
 I build:
 
-- 🛠️ **Custom Web Applications**
-- 📊 **Admin Dashboards**
-- 🛍️ **Ecommerce Solutions**
-- 🧪 **APIs for mobile and SPA frontends**
-- ⚡ Lightning-fast **UI experiences with Livewire + Alpine**
+- **Custom Web Applications**
+- **Admin Dashboards**
+- **Ecommerce Solutions**
+- **APIs for mobile and SPA frontends**
+- Lightning-fast **UI experiences with Livewire + Alpine**
 
 ---
 
