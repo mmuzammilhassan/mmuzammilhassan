@@ -3,7 +3,7 @@
 **Main Stack**  
 ![Laravel](https://img.shields.io/badge/-Laravel-EF3A38?logo=laravel&logoColor=white&style=flat) ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=livewire&style=flat)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  ![Vue.js](https://img.shields.io/badge/-Vue.js-77C1D2?logo=javascript&style=flat)
 
-I'm a backend-focused web developer who specializes in building **modern, fast, and scalable apps** using the **Laravel TALL stack** — Tailwind CSS, Alpine.js, Laravel, and Livewire.
+I'm a backend-focused web developer who specializes in building **modern, fast, and scalable apps** using the **Laravel TALL stack — Tailwind CSS, Alpine.js, Laravel, and Livewire.**
 
 I build:
 
