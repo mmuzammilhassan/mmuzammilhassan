@@ -1,4 +1,5 @@
 # Hey there, I'm Muzamml Hassan — Laravel + TALL Stack Developer
+---
 
 **Main Stack**  
 ![Laravel](https://img.shields.io/badge/-Laravel-EF3A38?logo=laravel&logoColor=white&style=flat) ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=livewire&style=flat)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  ![Vue.js](https://img.shields.io/badge/-Vue.js-77C1D2?logo=javascript&style=flat)
@@ -12,8 +13,6 @@ I build:
 - **Ecommerce Solutions**
 - **APIs for mobile and SPA frontends**
 - **Lightning-fast UI experiences with Livewire + Alpine**
-
----
 
 **Also Comfortable With**  
 PHP • MySQL • Git • FilamentPHP • REST APIs • Linux • Docker (basic use) • Composer
