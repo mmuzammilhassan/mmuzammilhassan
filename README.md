@@ -10,7 +10,7 @@ A Full Stack PHP Laravel Developer, who specializes in building **modern, fast, 
   </a>
 </p>
 
-## What I Build
+## I Build
 * **Custom Web Applications** (SaaS, internal tools)
 * **Admin Dashboards** with complex data management
 * **REST APIs** for mobile and SPA frontends
