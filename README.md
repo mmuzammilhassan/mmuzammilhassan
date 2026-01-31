@@ -18,8 +18,8 @@ A Full Stack PHP Laravel Developer, who specializes in building **modern, fast, 
 
 
 ## About Me
-<!-- * Currently open for **Remote Laravel Contracts** or **Freelance Projects**. -->
-* **Location:** Pakistan (Flexible with US/EU timezones).
+* Currently open for **Remote Laravel Contracts** or **Freelance Projects**.
+<!-- * **Location:** Pakistan (Flexible with US/EU timezones). -->
 * **Interests:** Programming, Open Source, and REST API development.
 * **Philosophy:** Building tools that are fast, clean, and actually useful.
 
