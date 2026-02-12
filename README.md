@@ -1,14 +1,20 @@
 <div align="left">
 
-# Hey there, I'm Muzamml Hassan <img align="right" src="https://komarev.com/ghpvc/?username=mmuzammilhassan&color=blue" alt="GitHub profile views counter">
+# Hey there, I'm Muzammil Hassan <img align="right" src="https://komarev.com/ghpvc/?username=mmuzammilhassan&color=blue" alt="GitHub profile views counter">
 
-A Full Stack PHP Laravel Developer, who specializes in building **modern, fast, and scalable apps**.
+A Full Stack PHP Laravel Developer specializing in **modern, fast, and scalable apps**.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,php,laravel,symfony,sqlite,mysql,vite,neovim,figma" />
-  </a>
-</p>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?logo=livewire&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
 
 ## I Build
 * **Custom Web Applications** (SaaS, internal tools)
@@ -16,20 +22,12 @@ A Full Stack PHP Laravel Developer, who specializes in building **modern, fast, 
 * **REST APIs** for mobile and SPA frontends
 * **Lightning-fast UI experiences**
 
-
 ## About Me
 * Currently open for **Remote Laravel Contracts** or **Freelance Projects**.
 * **Interests:** Programming, Open Source, and REST API development.
 * **Philosophy:** Building tools that are fast, clean, and actually useful.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mmuzammilhassan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mmuzammilhassan24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/923037636073">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Hassan-0077B5)](https://www.linkedin.com/in/mmuzammilhassan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-03037636073-25D366)](https://wa.me/923037636073)
+[![Gmail](https://img.shields.io/badge/Gmail-mmuzammilhassan24%40gmail.com-D14836)](mailto:mmuzammilhassan24@gmail.com)
+</div>
