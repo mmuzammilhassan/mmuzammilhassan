@@ -27,6 +27,7 @@ A Full Stack PHP Laravel Developer specializing in **modern, fast, and scalable 
 * **Interests:** Programming, Open Source, and REST API development.
 * **Philosophy:** Building tools that are fast, clean, and actually useful.
 
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Hassan-0077B5)](https://www.linkedin.com/in/mmuzammilhassan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-03037636073-25D366)](https://wa.me/923037636073)
 [![Gmail](https://img.shields.io/badge/Gmail-mmuzammilhassan24%40gmail.com-D14836)](mailto:mmuzammilhassan24@gmail.com)
