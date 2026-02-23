@@ -27,7 +27,7 @@ A Full Stack PHP Laravel Developer specializing in **modern, fast, and scalable 
 - **Interests:** Programming, Open Source, REST APIs  
 - **Philosophy:** Fast, clean, useful software  
 
-#### Conntect Information
+#### Contact Information
 - [LinkedIn](https://www.linkedin.com/in/mmuzammilhassan)
 - [Gmail](mailto:mmuzammilhassan24@gmail.com)
 - [Whatsapp](https://wa.me/+923037636073)
