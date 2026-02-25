@@ -2,13 +2,13 @@
 
 A **Full Stack PHP Laravel Developer** specializing in **modern, fast, and scalable applications**.
 
-#### What I Build
+### What I Build
 - **Custom Web Applications** (SaaS, internal tools)  
 - **Admin Dashboards** with complex data management  
 - **REST APIs** for mobile and SPA frontends  
 - **Lightning-fast UI experiences**
 
-#### Languages & Tools
+### Languages & Tools
 
 ###### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -24,12 +24,12 @@ A **Full Stack PHP Laravel Developer** specializing in **modern, fast, and scala
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?logo=livewire&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-#### About Me
+### About Me
 - Open for **Remote Laravel Contracts** or **Freelance Projects**  
 - Interests: Programming, Open Source, REST APIs  
 - Philosophy: *Fast, clean, useful software*
 
-#### Contact Information
+### Contact Information
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Hassan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmuzammilhassan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-03037636073-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923037636073)
