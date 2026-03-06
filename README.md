@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Muzammil Hassan  <img align="right" src="https://komarev.com/ghpvc/?username=mmuzammilhassan&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true" />
+## 👋 Hey, I'm Muzammil Hassan  <img align="right" src="https://komarev.com/ghpvc/?username=mmuzammilhassan&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true" />
 
 A **Full Stack PHP Laravel Developer** specializing in **modern, fast, and scalable applications**.
 
